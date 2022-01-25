@@ -1,0 +1,11 @@
+table {
+  width:1200px;
+}
+tr {
+  border-bottom: 1px solid #ddd;
+}
+th {
+  padding: 10px;
+}
+
+
